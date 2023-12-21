@@ -1,0 +1,10 @@
+.parallax-header-2-container {
+  width: 100%;
+  position: relative;
+}
+
+@media(max-width: 1200px) {
+  .parallax-header-2-container {
+    height: auto;
+  }
+}

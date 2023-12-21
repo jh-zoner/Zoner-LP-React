@@ -1,0 +1,19 @@
+.image-test-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.image-test-image {
+  width: 867px;
+  height: 325px;
+  object-fit: cover;
+}
+.image-test-image1 {
+  width: 911px;
+  height: 911px;
+  object-fit: cover;
+}
